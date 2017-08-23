@@ -18,7 +18,7 @@ public extension SignalProtocol {
   }
 }
 
-public extension SignalProducerProtocol {
+public extension SignalProducer {
 
   /**
    Returns a producer of pairs: the previously emitted value and the currently emitted value. The first
